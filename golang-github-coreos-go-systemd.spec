@@ -4,7 +4,7 @@
 #
 Name     : golang-github-coreos-go-systemd
 Version  : 7b2428fec40033549c68f54e26e89e7ca9a9ce31
-Release  : 4
+Release  : 5
 URL      : https://github.com/coreos/go-systemd/archive/7b2428fec40033549c68f54e26e89e7ca9a9ce31.tar.gz
 Source0  : https://github.com/coreos/go-systemd/archive/7b2428fec40033549c68f54e26e89e7ca9a9ce31.tar.gz
 Summary  : No detailed summary available
